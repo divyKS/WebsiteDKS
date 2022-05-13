@@ -1,0 +1,27 @@
+#one{
+    color: white;
+}
+
+body{
+    color: white;
+    background-image: url(Images/bg1.jpg);    
+    background-repeat:no-repeat;
+    
+    background-size:cover;
+    background-color: rgb(71, 57, 71);
+}
+.class2{
+    border-color: white;
+    border-style: double;
+    border-top-style:dotted;
+    border-width: 10px;
+    /* one line way is shown below */
+    /* border:white 4px dotted; */
+    border-radius: 10px;
+}
+.class1{
+
+}
+#hello1{
+    
+}

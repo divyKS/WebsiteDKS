@@ -1,0 +1,42 @@
+.D1{
+    background-color: moccasin;
+}
+.list1{
+    background-color: pink;
+}
+.item{
+    background-color: blueviolet;
+    color:darkorange;
+}
+.D2{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:50px;
+    
+    /* the margin is from all sides - left right top bottom */
+    background-color: paleturquoise;
+}
+.underD2{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 40px;
+    outline: 5px solid  white ;
+    
+    margin: inherit;
+}
+.D3{
+    border-style:dashed;
+    border-color: rgb(31, 6, 143);
+    border-width: 2px;
+    margin:50px;
+    
+}
+
+/* body{
+    margin: 0px;
+} */
